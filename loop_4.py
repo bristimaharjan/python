@@ -38,6 +38,6 @@ for x in credit_card:
  """
 for x in range (1,21):
     if x==13:
-        continue
+        continue #break
     else:
         print(x)
